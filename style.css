@@ -1,0 +1,43 @@
+body
+{
+    background-color:  rgb(101, 151, 206);
+}
+
+.header_div
+{
+    background-color: orange;
+}
+
+.header_div p
+{
+    font-family: 'Dosis', sans-serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Rubik', sans-serif;
+
+font-weight: 14px;
+word-spacing: 2px;
+font-size: 25px;
+}
+
+.main_div button
+{
+ font-family: 'Dosis', sans-serif;
+  font-family: 'Nunito', sans-serif;
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Rubik', sans-serif;
+
+  margin-top: 15px;
+  width: 90px;
+
+  font-weight: 10px;
+ word-spacing: 5px;
+}
+
+.copy_right_footer
+{
+    background-color: rgb(224, 192, 133);
+
+    color:rgb(101, 151, 206)
+    
+}
